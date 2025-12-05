@@ -1,6 +1,4 @@
 <h2 align="left">Hi 👋! My name is Jeremy O. Rellama</h2>
-<h4 align="left">🎓 BSIT Student | 💻 App & Web Developer | 🎨 Design Enthusiast</h4>
-
 ###
 
 <div align="center">
